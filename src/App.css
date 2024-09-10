@@ -1,0 +1,42 @@
+.appContainer {
+  display: flex;
+}
+
+.content {
+  position: relative;
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.postCard {
+  margin: 20px 40px;
+}
+
+.hashtag {
+  margin-right: 3px;
+}
+
+.thumb {
+  margin: 15px 5px 8px;
+  gap: 5px;
+}
+
+.createpost {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
+.footer {
+  position: absolute;
+  bottom: -15%;
+}
+.para {
+  margin: 30px;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+}
